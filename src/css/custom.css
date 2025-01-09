@@ -1,0 +1,39 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #8c7358; /* Marrone tenue, caldo e neutro */
+  --ifm-color-primary-dark: #755d49; /* Marrone più scuro per accenti */
+  --ifm-color-primary-darker: #5e4939; /* Marrone profondo per dettagli */
+  --ifm-color-primary-darkest: #463528; /* Marrone scurissimo per bordi */
+  --ifm-color-primary-light: #a68b6d; /* Beige-marrone chiaro per hover */
+  --ifm-color-primary-lighter: #c4a58c; /* Beige pastello per sfondi secondari */
+  --ifm-color-primary-lightest: #e6d3c2; /* Avorio caldo per sfondi */
+  --ifm-background-card: #1b1b1b;
+  --ifm-text-card: #ffffff;
+  
+  
+  
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ffcc80; /* Arancione tenue, caldo e luminoso */
+  --ifm-color-primary-dark: #e6b471; /* Arancione scuro per accenti */
+  --ifm-color-primary-darker: #cc9e64; /* Arancione terroso per dettagli */
+  --ifm-color-primary-darkest: #b38757; /* Marrone-arancio scuro per bordi */
+  --ifm-color-primary-light: #ffd7a2; /* Pesca chiaro per hover */
+  --ifm-color-primary-lighter: #ffe4c4; /* Beige-arancio pastello per sfondi */
+  --ifm-color-primary-lightest: #fff2e4; /* Avorio luminoso per sfondi chiari */
+  --ifm-background-card: #ffffff;
+  --ifm-text-card: #1b1b1b;
+  
+  
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksmart_green_oasis=self.webpackChunksmart_green_oasis||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/Documentation/build/blog","blogTitle":"Blog","authorsListPath":"/Documentation/build/blog/authors"}')}}]);

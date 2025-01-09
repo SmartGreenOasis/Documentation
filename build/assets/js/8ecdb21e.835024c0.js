@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksmart_green_oasis=self.webpackChunksmart_green_oasis||[]).push([[4749],{3914:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/Documentation/build/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
